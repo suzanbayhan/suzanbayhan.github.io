@@ -1,0 +1,127 @@
+/* ===============================
+   Color Theme (easy to customize)
+   =============================== */
+
+:root {
+    --accent: #7b4ae2;        /* soft academic purple */
+    --accent-dark: #5a32b6;   /* hover / emphasis */
+    --text-main: #333;
+    --text-muted: #666;
+    --bg-light: #f7f6fb;
+}
+
+/* ===============================
+   Base styles
+   =============================== */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+    color: var(--text-main);
+    background-color: #fff;
+}
+
+/* ===============================
+   Typography
+   =============================== */
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--accent);
+    margin-top: 1.4em;
+    margin-bottom: 0.6em;
+    font-weight: 600;
+}
+
+p, li {
+    color: var(--text-main);
+}
+
+.subtitle {
+    color: var(--text-muted);
+    font-size: 0.95em;
+}
+
+/* ===============================
+   Links
+   =============================== */
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    color: var(--accent-dark);
+    text-decoration: underline;
+}
+
+/* ===============================
+   Header / profile
+   =============================== */
+
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.profile-pic {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* ===============================
+   Navigation
+   =============================== */
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding-left: 0;
+    margin-top: 20px;
+}
+
+nav a {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+nav a:hover {
+    color: var(--accent-dark);
+}
+
+/* ===============================
+   Main content & footer
+   =============================== */
+
+main {
+    margin-top: 30px;
+}
+
+/* ===============================
+   Footer styling
+   =============================== */
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 0.75em;      /* smaller font size */
+    color: #999;            /* pale gray color */
+    line-height: 1.4em;     /* slightly tighter line spacing */
+    padding-top: 20px;      /* optional: add space above footer */
+}
+
+footer p {
+    margin: 5px 0;          /* smaller vertical spacing */
+}

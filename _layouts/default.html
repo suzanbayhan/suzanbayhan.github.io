@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+<header>
+    <div class="header-container">
+        <img src="{{ '/assets/img/profile.jpg' | relative_url }}" class="profile-pic" alt="Profile picture">
+
+        <div class="title-block">
+            <h1>{{ site.title }}</h1>
+            <p class="subtitle">{{ site.description }}</p>
+        </div>
+    </div>
+
+    <nav>
+        <ul>
+            {% for item in site.nav %}
+            <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
+
+<main>
+{{ content }}
+</main>
+
+<footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} — There is no royal road to science, and only those who do not dread the fatiguing climb of its steep paths have a chance of gaining its luminous summits. Karl Marx, Capital, vol.1</p>
+</footer>
+
+</body>
+</html>

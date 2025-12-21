@@ -1,0 +1,24 @@
+title: "Suzan Bayhan"
+description: "Associate Professor of Computer Science, University of Twente & Scientific Director of 4TU.NIRICT"
+url: "https://suzanbayhan.github.io"
+
+theme: minima    # simple GitHub-supported Jekyll theme
+
+# Navigation links (used in layout)
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Research
+    link: /research/
+  - name: Publications
+    link: /publications/
+  - name: News
+    link: /news/
+  - name: Highlights
+    link: /high/
+  - name: Contact
+    link: /contact/
+
+markdown: kramdown
