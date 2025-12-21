@@ -8,6 +8,7 @@
     --text-main: #333;
     --text-muted: #666;
     --bg-light: #f7f6fb;
+     font-size: clamp(14px, 1.5vw, 16px);
 }
 
 /* ===============================
@@ -23,7 +24,7 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
-    line-height: 1.4;
+    line-height: 1.5;
     color: var(--text-main);
     background-color: #fff;
 }
@@ -45,7 +46,7 @@ p, li {
 
 .subtitle {
     color: var(--text-muted);
-    font-size: 0.95em;
+    font-size: 0.85em;
 }
 
 /* ===============================
@@ -116,7 +117,7 @@ main {
 footer {
     margin-top: 40px;
     text-align: center;
-    font-size: 0.75em;      /* smaller font size */
+    font-size: 0.7em;      /* smaller font size */
     color: #999;            /* pale gray color */
     line-height: 1.4em;     /* slightly tighter line spacing */
     padding-top: 20px;      /* optional: add space above footer */
@@ -124,4 +125,20 @@ footer {
 
 footer p {
     margin: 5px 0;          /* smaller vertical spacing */
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 14px;
+    }
+
+    nav ul {
+        gap: 12px;
+        flex-wrap: wrap;
+    }
+
+    .profile-pic {
+        width: 90px;
+        height: 90px;
+    }
 }
