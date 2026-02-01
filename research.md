@@ -20,6 +20,7 @@ permalink: /research/
 - Qianqian Liu (PhD candidate, with Yanqiu Huang, Geert Heijenk)
 - Mehrdad Aslani (PhD candidate, with Marco Gerards)
 - Toni Dimitrovski (PhD candidate, with Geert Heijenk)
+- Dimitrios Kapsos (PhD candidate)
 
 ## Alumni
 - Lotte Weedage, Resilience of Cellular Networks: An analysis of multi-connectivity, beamforming and infrastructure sharing (PhD 2025, currently postdoc@TU/e, supervision: with Clara Stegehuis)
