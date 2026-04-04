@@ -6,6 +6,14 @@ permalink: /news/
 
 ## News 
 
+- March 2026: Sustainable mobile networks paper accepted to ICT4S 2026,  stay tuned for the details!
+
+- March 2026: Congratulations to Qianqian for her paper@IEEE VNC 2026, Tina for her paper@IEEE DCOSS-IoT 2026,  stay tuned for the details!
+
+- March 2026: We participated at 8ra IPCEI-CIS <a href="https://www.8ra.com/wp-content/uploads/8ra_Summit-202603190873-photo-SjoerdvdHucht-2-1156x707.jpg" target="_blank">General Assembly in Rotterdam</a>, with our <a href="https://www.utwente.nl/en/misd/" target="_blank">MISD</a> booth and our Workload Shifting demo, stay tuned for the details! 
+
+- Co-hosted 4TU.NIRICT <a href="https://www.4tu.nl/nirict" target="_blank">PhD school on Emerging Computing Paradigms<a> in March 2026
+
 - November 2025: Shyam's paper accepted to ACM PAM 2026, congratulations Shyam!
 
 - November 2025: Contributed to 6G FNS White Paper on Sustainability of 6G
