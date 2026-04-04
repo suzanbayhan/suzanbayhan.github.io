@@ -14,9 +14,9 @@ News:
 
 - Congratulations to Qianqian for her paper@IEEE VNC 2026, Tina for her paper@IEEE DCOSS-IoT 2026
 
-- We participated at 8ra IPCEI-CIS <a href="https://www.8ra.com/wp-content/uploads/8ra_Summit-202603190873-photo-SjoerdvdHucht-2-1156x707.jpg" target="_blank">General Assembly in Rotterdam</a>, with our MISD booth and our Workload Shifting demo 
+- We participated at 8ra IPCEI-CIS <a href="https://www.8ra.com/wp-content/uploads/8ra_Summit-202603190873-photo-SjoerdvdHucht-2-1156x707.jpg" target="_blank">General Assembly in Rotterdam</a>, with our <a href="https://www.utwente.nl/en/misd/" target="_blank">MISD</a> booth and our Workload Shifting demo 
 
-- Co-hosted 4TU.NIRICT <a href="https://www.4tu.nl/nirict/news/Recap 4TU.NIRICT PhD School on Emerging Computing Paradigms 17 March 2026/" target="_blank">PhD school on Emerging Computing Paradigms<a> in March 2026
+- Co-hosted 4TU.NIRICT <a href="https://www.4tu.nl/nirict" target="_blank">PhD school on Emerging Computing Paradigms<a> in March 2026
 
 - Dimitrios joins us as a PhD researcher<a href="https://www.utwente.nl/en/misd/" target="_blank">@MISD!</a>
  
