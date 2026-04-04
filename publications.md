@@ -7,7 +7,6 @@ permalink: /publications/
 ## Selected Publications
 Please find the complete list at <a href="https://scholar.google.com/citations?hl=en&user=GQraD5MAAAAJ" target="_blank">my profile</a> page. Also please visit <a href="https://www.utwente.nl/en/eemcs/research/faculty-research-themes/EERI/#about-eeri-energy-efficient-and-resilient-internet" target="_blank">EERI website</a> for all publications related to mobile network resilience and energy efficiency.
 
-
 - Detecting and Characterizing DDoS Scrubbing from Global BGP Routing: Insights from Five Leading Scrubbers
 SK Khadka, S. Bayhan, R. Holz, C. Hesselman
 ACM Passive and Active Measurement Conference (ACM PAM) 2026.  
