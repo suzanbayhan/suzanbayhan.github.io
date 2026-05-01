@@ -10,7 +10,9 @@ I am an Associate Professor at <a href="https://www.utwente.nl/en/eemcs/dacs/" t
 News:
 - Happy 2026!
 
-- Sustainable mobile networks paper accepted to ICT4S 2026
+- Congratulations to Tina for her paper LLIOT at <a href="https://eurosp2026.ieee-security.org/" target="_blank">EuroS&P 2026</a>. 
+
+- Sustainable mobile networks paper accepted to <a href="https://conf.researchr.org/home/ict4s-2026" target="_blank">ICT4S 2026</a>. 
 
 - Congratulations to Qianqian for her paper@IEEE VNC 2026, Tina for her paper@IEEE DCOSS-IoT 2026
 

@@ -7,9 +7,17 @@ permalink: /publications/
 ## Selected Publications
 Please find the complete list at <a href="https://scholar.google.com/citations?hl=en&user=GQraD5MAAAAJ" target="_blank">my profile</a> page. Also please visit <a href="https://www.utwente.nl/en/eemcs/research/faculty-research-themes/EERI/#about-eeri-energy-efficient-and-resilient-internet" target="_blank">EERI website</a> for all publications related to mobile network resilience and energy efficiency.
 
+- Neutrality for Sustainability: The Promise of Neutral Hosts for Sustainable Mobile Networks [paper]
+Boris Gerretzen and Suzan Bayhan
+The International Conference on ICT for Sustainability (ICT4S) 2026. 
+
+- SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT
+Tina Rezaei, S.Bayhan, A.Continella, J.v.d.Ham, R.v.Rijswijk-Deij
+IEEE European Symposium on Security and Privacy 2026 (EuroS&P)
+
 - Detecting and Characterizing DDoS Scrubbing from Global BGP Routing: Insights from Five Leading Scrubbers
 SK Khadka, S. Bayhan, R. Holz, C. Hesselman
-ACM Passive and Active Measurement Conference (ACM PAM) 2026.  
+ACM Passive and Active Measurement Conference (ACM PAM) 2026. <a href="https://blog.apnic.net/2026/04/23/detecting-and-characterizing-ddos-scrubbing-from-global-bgp-routing/" target="_blank">APNIC blogpost</a>. 
 
 - Rethinking Computing Systems in the Era of Climate Crisis: A Call for a Sustainable Computing Continuum
 Ella Peltonen, Suzan Bayhan et al. 
