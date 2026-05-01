@@ -8,10 +8,12 @@ permalink: /publications/
 Please find the complete list at <a href="https://scholar.google.com/citations?hl=en&user=GQraD5MAAAAJ" target="_blank">my profile</a> page. Also please visit <a href="https://www.utwente.nl/en/eemcs/research/faculty-research-themes/EERI/#about-eeri-energy-efficient-and-resilient-internet" target="_blank">EERI website</a> for all publications related to mobile network resilience and energy efficiency.
 
 - Neutrality for Sustainability: The Promise of Neutral Hosts for Sustainable Mobile Networks <a href="https://research.utwente.nl/en/publications/neutrality-for-sustainability-the-promise-of-neutral-hosts-for-su/" target="_blank">[paper]</a>
+
 Boris Gerretzen and Suzan Bayhan
 The International Conference on ICT for Sustainability (ICT4S) 2026. 
 
 - SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT
+
 Tina Rezaei, S.Bayhan, A.Continella, J.v.d.Ham, R.v.Rijswijk-Deij
 IEEE European Symposium on Security and Privacy (EuroS&P) 2026.
 
