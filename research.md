@@ -15,12 +15,12 @@ permalink: /research/
 ## Research Team
 - Blas Gomez Mora (Postdoc researcher)
 - Syllas Rangel Magalhaes (Postdoc researcher)
-- Tina Rezaei (PhD candidate, with Andrea Continella and Roland van Rijswijk-Deij)
+- Tina Rezaei (PhD candidate, with Andrea Continella, Roland van Rijswijk-Deij)
 - Shyam Krishna Khadka (PhD candidate, with Cristian Hesselman, Ralph Holz)
 - Qianqian Liu (PhD candidate, with Yanqiu Huang, Geert Heijenk)
-- Mehrdad Aslani (PhD candidate, with Marco Gerards)
+- Mehrdad Aslani (PhD candidate, with Marco Gerards, Geert Heijenk, Blas Gomez)
 - Toni Dimitrovski (PhD candidate, with Geert Heijenk)
-- Dimitrios Kapsos (PhD candidate, with Geert Heijenk)
+- Dimitrios Kapsos (PhD candidate, with Geert Heijenk, Syllas Rangel Magalhaes)
 
 ## Alumni
 - Lotte Weedage, Resilience of Cellular Networks: An analysis of multi-connectivity, beamforming and infrastructure sharing (PhD 2025, currently postdoc@TU/e, supervision: with Clara Stegehuis)
