@@ -12,9 +12,11 @@ News:
 
 - Congratulations to Tina for her paper LLIOT at <a href="https://eurosp2026.ieee-security.org/" target="_blank">EuroS&P 2026</a>. 
 
-- Sustainable mobile networks paper accepted to <a href="https://conf.researchr.org/home/ict4s-2026" target="_blank">ICT4S 2026</a>. 
+- Our paper Storage Emissions accepted to <a href="https://hotcarbon.org/" target="_blank">HotCarbon 2026</a>!
 
-- Congratulations to Qianqian for her paper@IEEE VNC 2026, Tina for her paper@IEEE DCOSS-IoT 2026
+- Sustainable mobile networks paper accepted to <a href="https://conf.researchr.org/home/ict4s-2026" target="_blank">ICT4S 2026</a>.  See my talk <a href="/pdf/26-ict4s-talk.pdf" target="_blank">slides</a>.
+
+- Congratulations to Qianqian for her paper@IEEE VNC 2026, Tina for her paper@IEEE DCOSS-IoT 2026.
 
 - We participated at 8ra IPCEI-CIS <a href="https://www.8ra.com/wp-content/uploads/8ra_Summit-202603190873-photo-SjoerdvdHucht-2-1156x707.jpg" target="_blank">General Assembly in Rotterdam</a>, with our <a href="https://www.utwente.nl/en/misd/" target="_blank">MISD</a> booth and our Workload Shifting demo 
 

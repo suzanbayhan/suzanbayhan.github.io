@@ -7,7 +7,8 @@ permalink: /publications/
 ## Selected Publications
 Please find the complete list at <a href="https://scholar.google.com/citations?hl=en&user=GQraD5MAAAAJ" target="_blank">my profile</a> page. Also please visit <a href="https://www.utwente.nl/en/eemcs/research/faculty-research-themes/EERI/#about-eeri-energy-efficient-and-resilient-internet" target="_blank">EERI website</a> for all publications related to mobile network resilience and energy efficiency.
 
-- Neutrality for Sustainability: The Promise of Neutral Hosts for Sustainable Mobile Networks <a href="https://research.utwente.nl/en/publications/neutrality-for-sustainability-the-promise-of-neutral-hosts-for-su/" target="_blank">[paper]</a>
+- Neutrality for Sustainability: The Promise of Neutral Hosts for Sustainable Mobile Networks <a href="https://research.utwente.nl/en/publications/neutrality-for-sustainability-the-promise-of-neutral-hosts-for-su/" target="_blank">[paper]</a> and  <a href="/pdf/26-ict4s-talk.pdf" target="_blank">slides</a>.
+
 Boris Gerretzen and Suzan Bayhan
 The International Conference on ICT for Sustainability (ICT4S) 2026. 
 
