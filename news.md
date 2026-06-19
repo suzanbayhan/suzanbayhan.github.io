@@ -6,7 +6,11 @@ permalink: /news/
 
 ## News 
 
-- March 2026: Sustainable mobile networks paper accepted to ICT4S 2026,  stay tuned for the details!
+- June 2026: Paper accepted to HotCarbon 2026.
+
+- May 2026: Congratulations to Tina for her paper Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT at EuroS\&P 2026.  
+
+- March 2026: Sustainable mobile networks paper accepted to ICT4S 2026, see <a href="/pdf/26-ict4s_neutralhosts.pdf" target="_blank">the paper</a> and <a href="/pdf/26-ict4s-talk.pdf" target="_blank">the slides</a>.
 
 - March 2026: Congratulations to Qianqian for her paper@IEEE VNC 2026, Tina for her paper@IEEE DCOSS-IoT 2026,  stay tuned for the details!
 
