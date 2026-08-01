@@ -8,11 +8,10 @@ I am an Associate Professor at <a href="https://www.utwente.nl/en/eemcs/dacs/" t
  I act also as the Scientific Director of <a href="https://www.4tu.nl/nirict/" target="_blank">4TU.NIRICT</a> as of January 2025.
 
 News:
-- Happy 2026!
 
-- Congratulations to Tina for her paper LLIOT at <a href="https://eurosp2026.ieee-security.org/" target="_blank">EuroS&P 2026</a>. 
+- Congratulations to Tina for <a href="/pdf/26-rezaei-lliot.pdf" target="_blank">her paper LLIOT</a> at <a href="https://eurosp2026.ieee-security.org/" target="_blank">EuroS&P 2026</a>. See the LLIoT dataset and code <a href="https://github.com/Tina-Rezaei/LLIoT" target="_blank">here</a>. 
 
-- Our paper Storage Emissions accepted to <a href="https://hotcarbon.org/" target="_blank">HotCarbon 2026</a>!
+- Our paper Storage Emissions accepted to <a href="https://hotcarbon.org/assets/2026/paper-75.pdf" target="_blank">HotCarbon 2026, paper</a>
 
 - Sustainable mobile networks paper accepted to <a href="https://conf.researchr.org/home/ict4s-2026" target="_blank">ICT4S 2026</a>.  See my talk <a href="/pdf/26-ict4s-talk.pdf" target="_blank">slides</a>.
 

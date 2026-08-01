@@ -7,11 +7,15 @@ permalink: /publications/
 ## Selected Publications
 Please find the complete list at <a href="https://scholar.google.com/citations?hl=en&user=GQraD5MAAAAJ" target="_blank">my profile</a> page. Also please visit <a href="https://www.utwente.nl/en/eemcs/research/faculty-research-themes/EERI/#about-eeri-energy-efficient-and-resilient-internet" target="_blank">EERI website</a> for all publications related to mobile network resilience and energy efficiency.
 
+- Carbon Emissions from Cloud Storage: An Empirical Analysis toward Actionable User Practices for Sustainable Storage <a href="https://hotcarbon.org/assets/2026/paper-75.pdf" target="_blank"> paper</a>
+Gopika Premsankar (Aalto University), Lin Wang (Paderborn University), Suzan Bayhan 
+HotCarbon 2026 
+
 - Neutrality for Sustainability: The Promise of Neutral Hosts for Sustainable Mobile Networks <a href="/pdf/26-ict4s_neutralhosts.pdf"  target="_blank"> paper</a> and  <a href="/pdf/26-ict4s-talk.pdf" target="_blank">slides</a>.
 Boris Gerretzen and Suzan Bayhan
 The International Conference on ICT for Sustainability (ICT4S) 2026. 
 
-- SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT
+- SoK: Understanding the state of IoT-specific vulnerabilities via CVE characterization with LLIoT <a href="/pdf/26-rezaei-lliot.pdf" target="_blank"> paper </a> and <a href="https://github.com/Tina-Rezaei/LLIoT"  target="_blank" > LLIoT dataset and code </a>
 Tina Rezaei, S.Bayhan, A.Continella, J.v.d.Ham, R.v.Rijswijk-Deij
 IEEE European Symposium on Security and Privacy (EuroS&P) 2026.
 
